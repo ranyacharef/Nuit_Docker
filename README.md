@@ -8,4 +8,4 @@ docker image ls
 docker compose run web env
 ### Stop the services once you’ve finished with them
 docker compose stop
-## *the container is listening on port 5000*
+## *The container is listening on port 5000*
